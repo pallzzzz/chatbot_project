@@ -1,0 +1,40 @@
+[
+  {
+    "id": "e6fb6ce3-75ab-43fa-aeb8-cb73c602bdda",
+    "data": [
+      {
+        "text": "pallz",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " kon hai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e43394bc-987a-47a4-808e-26d862c1d611",
+    "data": [
+      {
+        "text": "pallavi",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " kon hai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

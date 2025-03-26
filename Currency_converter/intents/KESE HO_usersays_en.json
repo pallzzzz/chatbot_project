@@ -1,0 +1,80 @@
+[
+  {
+    "id": "b6505476-7d57-4150-af29-f62d035fc6c9",
+    "data": [
+      {
+        "text": "whats up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb452297-2b10-4e2a-abf3-837ba8d3ad2a",
+    "data": [
+      {
+        "text": "ssup?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3e57abb-dfd6-4b46-8602-27b75c76356b",
+    "data": [
+      {
+        "text": "how u doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e696f3c-01f2-4920-8260-3de90182958e",
+    "data": [
+      {
+        "text": "how are u?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef8a7f4b-f6c3-4ea4-9b6a-c1d1870550c9",
+    "data": [
+      {
+        "text": "kya haal hai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97154260-68b2-40f0-8918-fff3c7f1648f",
+    "data": [
+      {
+        "text": "kese ho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "id": "e6a5ca3e-eb33-414b-ad46-5e0c5d18aa6e",
+  "name": "work",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "051691e5-4464-45de-8e9b-30ea8d73f698",
+          "name": "task",
+          "required": false,
+          "dataType": "@task",
+          "value": "$task",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "249e0a81-cff5-49b2-84cd-8340a9ffd1a1",
+          "name": "task1",
+          "required": false,
+          "dataType": "@task",
+          "value": "$task1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am a currency convertor chatbot!",
+            "Mai currency convert kar ke de sakta hu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

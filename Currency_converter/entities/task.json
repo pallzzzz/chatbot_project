@@ -1,0 +1,9 @@
+{
+  "id": "a66123d9-c517-4e9f-85b7-031f8dfe8199",
+  "name": "task",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
